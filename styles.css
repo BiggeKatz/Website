@@ -1,0 +1,208 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+header {
+    width: 100%;
+    background-color: red;
+    height: 100px;
+    text-align: center;
+    display: inline-block;
+    position: fixed;
+    z-index: 2;
+}
+.header {
+    position: relative;
+    top: 30px;
+    text-align: center;
+    color: black;
+}
+main {
+    position: absolute;
+    top: 110px;
+    left: 11%
+}
+section {
+    height: 700px;
+    width: 1300px;
+    border: 3px solid black;
+    display: inline-block;
+    background-size: 200px 200px;
+    padding: 0px;
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-align: center;
+    color: white;
+    z-index: 1;
+}
+.image {
+    height: 175--px;
+    width: 225px;
+    border: 3px solid black;
+    position: absolute;
+    top: 1px;
+    right: 1075px;
+    background-image: url(23871357-air-jordan-logo-marque-symbole-blanc-conception-vetements-vetement-de-sport-vecteur-illustration-avec-noir-contexte-gratuit-vectoriel.jpg) ;
+} 
+
+.title {
+    height: 125px;
+    width: 550px;
+    border: 3px solid white;
+    position: absolute;
+    top: 1px;
+    right: 385px;
+    text-size-adjust: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+
+}
+.box {
+    background-color: red;
+    border: 3px solid black;
+    text-align: center;
+    
+}
+.bigbox {
+    height: 500px;
+    width: 525px;
+    border: 3px solid white;
+    position: absolute;
+    top: 175px;
+    right: 397px;
+    text-size-adjust: 100px
+}
+.me {
+    height: 375px;
+    width: 275px;
+    border: 3px solid black;
+    position: absolute;
+    top: 245px;
+    right: 35px;
+    text-size-adjust: 100px;
+}
+.pic {
+    height: 225px;
+    width: 275px;
+    border: 3px solid black;
+    position: absolute;
+    top: 20px;
+    right: 35px;
+    background-image: url("WIN_20240112_08_27_37_Pro.jpg");
+}
+p {
+    
+}
+
+li {
+    list-style-type: none;
+    font-size: x-large;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    background-color: black;
+    color: white;
+}
+.jordan {
+    height: 175px;
+    width: 525px;
+    border: 3px solid white;
+    position: absolute;
+    top: 160px;
+    right: 397px;
+    text-size-adjust: 100px
+}
+.fav {
+    position: absolute;
+    top: 375px;
+    left: 40%;
+}
+.air {
+    border: 3px solid black;
+    position: absolute;
+    top: 415px;
+    left: 30%;
+}
+.text {
+    height: 160px;
+    width: 250px;
+    top: 150px;
+    left: 39%;
+    position: absolute;
+    border: 3px solid black;
+    background-image: url(Font-Yeezy-Logo.jpg);
+}
+.yzy {
+    height: 170px;
+    width: 350px;
+    top: 375px;
+    left: 36%;
+    position: absolute;
+    border: 3px solid black;
+}
+.zebra {
+    height: 200px;
+    width: 235px;
+    top: 375px;
+    left: 70%;
+    position: absolute;
+    border: 3px solid black;
+    background-image: url(61fV7hEoklL._AC_UY900_.jpg);
+}
+.balen {
+    height: 170px;
+    width: 350px;
+    top: 275px;
+    left: 36%;
+    position: absolute;
+    border: solid 3px black;
+}
+.balenciaga {
+    height: 200px;
+    width: 200px;
+    top: 475px;
+    position: absolute;
+    left: 42%;
+    border: solid 3px black;
+    background-image: url(balenciaga-black-track-led-sneakers.jpg);
+}
+.info {
+    height: 465px;
+    width: 400px;
+    border: 3px solid black;
+    top: 150px;
+    left: 36%;
+    position: absolute;
+}
+.mschf {
+    height: 250px;
+    width: 300px;
+    top: 150px;
+    border: 3px solid black;
+    left: 36%;
+    position: absolute;
+}
+.boot {
+    height: 250px;
+    width: 220px;
+    top: 150px;
+    left: 75%;
+    border: 3px solid black;
+    position: absolute;
+    background-image: url(09BIG-RED-BOOT-02-vcth-mediumSquareAt3X.jpg);
+
+}
+.gob {
+    height: 250px;
+    width: 220px;
+    top: 425px;
+    left: 75%;
+    border: 3px solid black;
+    position: absolute;
+    background-image: url(1669129952-mschf-gobstomper-shoes-sour-3.jpg);
+}
